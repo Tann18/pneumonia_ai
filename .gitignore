@@ -1,0 +1,30 @@
+# --- Python ---
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual env ---
+venv/
+.env/
+
+# --- Datasets & medical data ---
+data/
+cases/
+labels_train.csv
+
+# --- Images (ignore random test files) ---
+*.jpg
+*.png
+
+# --- TensorFlow / Keras junk ---
+tf_legacy/
+bg_files/
+
+# --- Old / duplicate models ---
+*.h5
+!best_pneumonia_model.keras
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
