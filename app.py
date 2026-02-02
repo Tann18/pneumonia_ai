@@ -78,7 +78,8 @@ def set_bg(img_file):
         unsafe_allow_html=True
     )
 
-set_bg("bg.jpg")
+if os.path.exists("bg.jpg"):
+    set_bg("bg.jpg")
 
 # =============================
 # STYLING
