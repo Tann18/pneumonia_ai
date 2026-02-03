@@ -8,8 +8,7 @@ This project is intended for educational and research purposes.
 ## Author
 
 **Tanmay Das**  
-Computer Science Undergraduate  
-Project developed as part of academic and research work in applied machine learning and medical imaging.
+Developed this project as part of a 24-hour hackathon, focusing on rapid prototyping, model integration, and end-to-end deployment within strict time constraints.
 
 ## Overview
 
