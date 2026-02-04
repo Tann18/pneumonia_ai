@@ -7,7 +7,7 @@ This project is intended for educational and research purposes.
 ---
 ## Author
 
-**Tanmay Das**  
+**Tanmay Das,Ayush Sawant**  
 Developed this project as part of a 24-hour hackathon, focusing on rapid prototyping, model integration, and end-to-end deployment within strict time constraints.
 
 ## Overview
